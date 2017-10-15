@@ -1,0 +1,16 @@
+#side{
+	width:300px;
+	height: 700px;
+	background: #b2beb5;
+	margin-left: 80px;
+	padding: 20px;
+}
+
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 20px;
+    background: #888
+
+    margin-left: 400px;
+}
